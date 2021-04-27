@@ -1,0 +1,8 @@
+.counts {
+  margin: 12px;
+  color: var(--text-color-secondary); 
+}
+
+.inputContainer { 
+  margin-bottom: 40px;
+}
